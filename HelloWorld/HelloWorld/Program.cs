@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //Se modifica ceva 
             World w1 = new World("ET1");
             w1.SayHello();
 
